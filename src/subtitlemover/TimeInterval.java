@@ -6,7 +6,7 @@ import java.util.regex.Pattern;
 /**
  * Класс представляет временной интервал
  */
-public class TimeInterval {
+class TimeInterval {
     // часы
     private int hours = 0;
     // минуты
